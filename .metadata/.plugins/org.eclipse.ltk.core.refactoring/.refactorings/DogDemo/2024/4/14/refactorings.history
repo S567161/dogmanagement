@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Encapsulate field &apos;com.example.DogDemo.Dog.trainer&apos; in &apos;com.example.DogDemo.Dog&apos;&#x0D;&#x0A;- Original project: &apos;DogDemo&apos;&#x0D;&#x0A;- Original element: &apos;com.example.DogDemo.Dog.trainer&apos;&#x0D;&#x0A;- Getter method name: &apos;getTrainer&apos;&#x0D;&#x0A;- Setter method name: &apos;setTrainer&apos;&#x0D;&#x0A;- Field visibility: &apos;public&apos;&#x0D;&#x0A;- Use getter and setter methods in declaring type" comments="false" declaring="true" description="Encapsulate field &apos;trainer&apos;" flags="589830" getter="getTrainer" id="org.eclipse.jdt.ui.self.encapsulate" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.example.DogDemo{Dog.java[Dog^trainer" insertion="7" setter="setTrainer" stamp="1712008433645" version="1.0" visibility="1"/>
+</session>
